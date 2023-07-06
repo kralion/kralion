@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Brayan Joan!
 
 
-I am a highly skilled front-end developer with experience in technologies such as Typescript , React JS, Adobe XD, Figma, Spline, Mongo DB and SQL Server. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a highly skilled front-end developer with experience in technologies such as Typescript , React JS, Adobe XD, Figma, Spline. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -15,7 +15,7 @@ I am a highly skilled front-end developer with experience in technologies such a
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Dv-Joan?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/brayan-joan/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/joan-paucar/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 
 
