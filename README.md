@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Brayan Paucar!
 
 
-I am skilled front-end developer with experience in technologies such as TS , Next JS, Adobe XD, Figma, Spline. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am skilled front-end developer with experience in technologies such as Next JS, Tailwind CSS w/ TS. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
