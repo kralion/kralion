@@ -1,7 +1,7 @@
-## Hey 👋, I'm Brayan Joan!
+## Hey 👋, I'm Brayan Paucar!
 
 
-I am a highly skilled front-end developer with experience in technologies such as Typescript , React JS, Adobe XD, Figma, Spline. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am skilled front-end developer with experience in technologies such as TS , Next JS, Adobe XD, Figma, Spline. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -13,8 +13,6 @@ I am a highly skilled front-end developer with experience in technologies such a
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/Dv-Joan/exaya)
 - 🌱 &nbsp; I’m currently learning Web3 Techs Stacks; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Dv-Joan?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/joan-paucar/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 
@@ -24,7 +22,6 @@ I am a highly skilled front-end developer with experience in technologies such a
 ### Languages and Tools:
 
 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
