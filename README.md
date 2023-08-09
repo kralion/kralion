@@ -17,8 +17,6 @@ I am skilled front-end developer with experience in technologies such as Next JS
 
 
 <br></br>
-<br></br>
-
 #### Tech Skills I'm Straight Fire At
 
 [![My Stack](https://skillicons.dev/icons?i=ts,nextjs,tailwind,express,apollo,mysql,mongodb,aws)](https://skillicons.dev)
