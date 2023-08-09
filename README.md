@@ -18,7 +18,6 @@ I am skilled front-end developer with experience in technologies such as Next JS
 
 <br></br>
 <br></br>
-<br></br>
 
 #### Tech Skills I'm Straight Fire At
 
