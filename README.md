@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+👋,+It's+Brayan+Paucar!)](https://git.io/typing-svg)
 
-I am skilled front-end developer with experience in technologies such as Next JS, Tailwind CSS w/ TS. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+Passionate developer eager to create innovative solutions. Self-driven learner specialized in frontend but with fullstack experience. Let's turn ideas into reality 🛠️. 
 <br/>
 <br/>
 
