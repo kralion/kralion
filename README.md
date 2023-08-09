@@ -11,7 +11,7 @@ Passionate developer eager to create innovative solutions. Self-driven learner s
 - 🔭 &nbsp; I’m currently developing [exaya](https://github.com/Dv-Joan/exaya)
 - 🤝 &nbsp; I'm looking to collaborate on innovative and challenging projects.
 - 💣 &nbsp; I love what we developers can build with AI 
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1GX_6LA0mHZQXLjNgOFYd78FnFssOvztv/view?usp=sharing)
 
 <br></br>
 #### Tech Skills I'm Straight Fire At
