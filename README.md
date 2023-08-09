@@ -16,6 +16,9 @@ I am skilled front-end developer with experience in technologies such as Next JS
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 
 
+<br></br>
+<br></br>
+<br></br>
 
 #### Tech Skills I'm Straight Fire At
 
