@@ -4,7 +4,7 @@ I am skilled front-end developer with experience in technologies such as Next JS
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="./repo-banner.gif" width="360px"/>
   
 ### More About Me:
 
