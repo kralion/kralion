@@ -8,13 +8,10 @@ Passionate developer eager to create innovative solutions. Self-driven learner s
   
 ### More About Me:
 
-- 🔭 &nbsp; I’m currently working on **exaya-project**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/Dv-Joan/exaya)
-- 🌱 &nbsp; I’m currently learning Web3 Techs Stacks; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Dv-Joan?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/joan-paucar/)
+- 🔭 &nbsp; I’m currently developing [exaya](https://github.com/Dv-Joan/exaya)
+- 🤝 &nbsp; I'm looking to collaborate on innovative and challenging projects.
+- 💣 &nbsp; I love what we developers can build with AI 
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-
 
 <br></br>
 #### Tech Skills I'm Straight Fire At
@@ -24,5 +21,13 @@ Passionate developer eager to create innovative solutions. Self-driven learner s
 #### Learning
 
 [![Learning](https://skillicons.dev/icons?i=redis,docker,tensorflow,ae,wordpress)](https://skillicons.dev)<img src="https://media.giphy.com/media/v9lZy0d0A1rp3qg3ff/giphy.gif" alt="coding gif" width="40">
+
+<br></br>
+
+  ### When I'm not coding:
+
+- 👟 Running around a tennis court
+- 🏊‍♂️ Plowing through laps in the pool
+- 🏋️‍♂️ Pumping iron at the gym
 
 
