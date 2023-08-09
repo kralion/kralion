@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+👋,+It's+Brayan+Paucar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+👋,+It's+Joan+Paucar!)](https://git.io/typing-svg)
 
 Passionate developer eager to create innovative solutions. Self-driven learner specialized in frontend but with fullstack experience. Let's turn ideas into reality 🛠️. 
 <br/>
