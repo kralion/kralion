@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=F97316&repeat=false&random=false&width=435&height=70&lines=Hallo+%F0%9F%91%8B%2C+It's+Joan+Paucar)](https://git.io/typing-svg)
-
 Passionate developer eager to create innovative solutions. Self-driven learner specialized in frontend but with fullstack experience. Let's turn ideas into reality 🛠️. 
 <br/>
 <br/>
