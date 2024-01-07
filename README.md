@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=F97316&repeat=false&random=false&width=435&height=70&lines=Hallo+%F0%9F%91%8B%2C+It's+Joan+Paucar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=3D3B40&repeat=false&random=false&width=435&height=70&lines=Hallo+%F0%9F%91%8B%2C+It's+Joan+Paucar)](https://git.io/typing-svg)
 
-Passionate software engineer eager to create innovative solutions. Self-driven learner specialized in delivering solutions that makes the life of people around me more easier Let's turn ideas into reality 🛠️. 
+
+Experienced developer excelling in web and mobile projects. Let's seamlessly transform ideas into impactful solutions. 🛠️. 
 <br/>
 <br/>
   
@@ -14,11 +15,11 @@ Passionate software engineer eager to create innovative solutions. Self-driven l
 <br></br>
 #### Tech Skills I'm Straight Fire At
 
-[![My Stack](https://skillicons.dev/icons?i=ts,nextjs,tailwind,express,apollo,mysql,mongodb,aws)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=react,nextjs,ts,prisma,tailwind,git,apollo,mysql,mongodb,docker,figma,webflow)](https://skillicons.dev)
 
 #### Learning
 
-[![Learning](https://skillicons.dev/icons?i=redis,docker,tensorflow,ae,wordpress)](https://skillicons.dev)<img src="https://media.giphy.com/media/v9lZy0d0A1rp3qg3ff/giphy.gif" alt="coding gif" width="40">
+[![Learning](https://skillicons.dev/icons?i=rust,redis,tensorflow,ae)](https://skillicons.dev)<img src="https://media.giphy.com/media/v9lZy0d0A1rp3qg3ff/giphy.gif" alt="coding gif" width="40">
 
 <br></br>
 
