@@ -7,10 +7,10 @@ Experienced developer excelling in web and mobile projects. Let's seamlessly tra
   
 ### More About Me:
 
-- 🔭 &nbsp; I’m currently developing [exaya](https://github.com/Dv-Joan/exaya)
+- 🔭 &nbsp; I’m currently developing [exaya](https://github.com/Dv-Joan/exaya) and [expense-tracker](https://github.com/Dv-Joan/expense-tracker)
 - 🤝 &nbsp; I'm looking to collaborate on innovative and challenging projects.
 - 💣 &nbsp; I love what we developers can build with AI 
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1GX_6LA0mHZQXLjNgOFYd78FnFssOvztv/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1-3XAAqIMACy02xn0E9TJY1VrB_erirl0/view?usp=sharing)
 
 <br></br>
 #### Tech Skills I'm Straight Fire At
