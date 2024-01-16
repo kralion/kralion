@@ -23,7 +23,7 @@ Experienced developer excelling in web and mobile projects. Let's seamlessly tra
 
 <br></br>
 
-<a href="https://app.daily.dev/joanpaucar"><img src="https://github.com/Dv-Joan/Dv-Joan/blob/main/devcard.svg" width="400" alt="Joan Paucar's Dev Card"/></a>
+[//]: # (<a href="https://app.daily.dev/joanpaucar"><img src="https://github.com/Dv-Joan/Dv-Joan/blob/main/devcard.svg" width="400" alt="Joan Paucar's Dev Card"/></a>)
 
   ### When I'm not coding:
 
