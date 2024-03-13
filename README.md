@@ -9,7 +9,7 @@ Experienced developer specializing in web and mobile development. Passionate abo
 
 - 🤝 &nbsp; Looking to collaborate on innovative and challenging projects.
 - 💣 &nbsp; Excited about what we can build with AI.
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1-3XAAqIMACy02xn0E9TJY1VrB_erirl0/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qa9y3b9yJ34b96GvPYS6FoSPzY01lGPr/view?usp=drivesdk)
 
 <br></br>
 #### Tech Skills I Excel In
