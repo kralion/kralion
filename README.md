@@ -1,7 +1,7 @@
 <br/>
 
 <div align="center">
-  <p>Experienced developer specializing in web and mobile development.  <br/>Passionate about transforming ideas into impactful solutions. <br/>Here are a few things I'm working on:</p>  
+  <p>Experienced developer specialized in web and mobile development.  <br/>Passionate about transforming ideas into impactful solutions. <br/>Here are a few things I'm working on:</p>  
 </div>
 
 ---
