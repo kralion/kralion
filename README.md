@@ -9,13 +9,13 @@
 <br/>
 
 <div align="center">
-   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://user-images.githubusercontent.com/1515742/281071510-d5c0095d-d336-4857-ad80-d18cf65f4acb.png" alt="Shipixen Logo" /></a> <br/>
+   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://cdn-icons-png.flaticon.com/128/10351/10351661.png" alt="Exaya Logo" /></a> <br/>
   <b>Exaya</b>  </br> Integral Software for Organic Processes <br/>Management  Powered with AI </br> <a href="https://exaya.netlify.app">exaya.app</a>
 </div>
 
 <br/>
 <div align="center">
-   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://user-images.githubusercontent.com/1515742/281071510-d5c0095d-d336-4857-ad80-d18cf65f4acb.png" alt="Shipixen Logo" /></a> <br/>
+   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://github.com/kralion/expense-tracker/blob/main/assets/icon.png?raw=true" alt="ExpenseTracker Logo" /></a> <br/>
   <b>Expense Tracker</b>  </br> Track daily financial expenses with ease. <br/>Made with Expo </br> <a href="https://expensetrackerweb.vercel.app">expensetracker.app</a>
 </div>
 
