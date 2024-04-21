@@ -1,7 +1,7 @@
 <br/>
 
 <div align="center">
-  <p>I'm passionate about exploring various projects and ideas <br/>Here are a few things I'm working on:</p>  
+  <p>Experienced developer specializing in web and mobile development.  <br/>Passionate about transforming ideas into impactful solutions. <br/>Here are a few things I'm working on:</p>  
 </div>
 
 ---
@@ -24,11 +24,7 @@
 <br/>
 
 <hr>
-</br>
-</br>
 
-Experienced developer specializing in web and mobile development. Passionate about transforming ideas into impactful solutions.
-<br/>
 <br/>
 
 ### More About Me:
