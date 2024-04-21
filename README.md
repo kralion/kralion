@@ -1,10 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=3D3B40&repeat=false&random=false&width=435&height=70&lines=Hallo+%F0%9F%91%8B%2C+It's+Brayan+Paucar)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://apihustle.com">
+    <img src="https://raw.githubusercontent.com/danmindru/danmindru/master/header.svg" width="800" height="auto">
+  </a>
+</div>
 
+---
+
+<br/>
+
+<div align="center">
+  <p>I'm passionate about exploring various projects and ideas <br/>Here are a few things I'm working on:</p>  
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://user-images.githubusercontent.com/1515742/281071510-d5c0095d-d336-4857-ad80-d18cf65f4acb.png" alt="Shipixen Logo" /></a> <br/>
+  <b>Exaya</b>  </br> Integral Software for Organic Processes <br/>Management  Powered with AI </br> <a href="https://exaya.netlify.app">exaya.app</a>
+</div>
+
+<br/>
+<div align="center">
+   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://user-images.githubusercontent.com/1515742/281071510-d5c0095d-d336-4857-ad80-d18cf65f4acb.png" alt="Shipixen Logo" /></a> <br/>
+  <b>Expense Tracker</b>  </br> Track daily financial expenses with ease. <br/>Made with Expo </br> <a href="https://expensetrackerweb.vercel.app">expensetracker.app</a>
+</div>
+
+<br/>
+
+<br/>
+
+<hr>
+</br>
+</br>
 
 Experienced developer specializing in web and mobile development. Passionate about transforming ideas into impactful solutions.
 <br/>
 <br/>
-  
+
 ### More About Me:
 
 - 🤝 &nbsp; Looking to collaborate on innovative and challenging projects.
@@ -12,6 +46,7 @@ Experienced developer specializing in web and mobile development. Passionate abo
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qa9y3b9yJ34b96GvPYS6FoSPzY01lGPr/view?usp=drivesdk)
 
 <br></br>
+
 #### Tech Skills I Excel In
 
 [![My Stack](https://skillicons.dev/icons?i=react,nextjs,ts,prisma,tailwind,git,apollo,mysql,mongodb,docker,figma,webflow)](https://skillicons.dev)
@@ -24,9 +59,8 @@ Experienced developer specializing in web and mobile development. Passionate abo
 
 [//]: # (<a href="https://app.daily.dev/joanpaucar"><img src="https://github.com/Dv-Joan/Dv-Joan/blob/main/devcard.svg" width="400" alt="Joan Paucar's Dev Card"/></a>)
 
-  ### When I'm not coding:
+### When I'm not coding:
 
 - 👟 Hitting the tennis court
 - 🏊‍♂️ Swimming laps
 - 🏋️‍♂️ Working out at the gym
-
