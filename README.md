@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://apihustle.com">
-    <img src="https://raw.githubusercontent.com/kralion/kralion/master/header.svg" width="800" height="auto">
-  </a>
-</div>
-
----
-
 <br/>
 
 <div align="center">
