@@ -1,4 +1,4 @@
-<a href="https://brayanpaucar.netlify.app"><img src="./brayan.png" align="center" style="width: 100%" alt="Brayan Paucar" /></a>
+
 
 <br/>
 
