@@ -10,7 +10,7 @@
 
 <div align="center">
    <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://cdn-icons-png.flaticon.com/128/10351/10351661.png" alt="Exaya Logo" /></a> <br/>
-  <b>Exaya</b>  </br> Integral Software for Organic Processes <br/>Management  Powered with AI </br> <a href="https://exaya.netlify.app">exaya.app</a>
+  <b>Exaya</b>  </br> Integral Software for Organic Processes <br/>Management  Powered with AI </br> <a href="https://exaya.vercel.app">exaya.app</a>
 </div>
 
 <br/>
