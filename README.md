@@ -1,9 +1,9 @@
-
+<a href="https://brayanpaucar.netlify.app"><img src="./design.png" align="center" style="width: 100%" alt="Brayan Paucar" /></a>
 
 <br/>
 
 <div align="center">
-  <p>Experienced developer specialized in web and mobile development.  <br/>Passionate about transforming ideas into impactful solutions. <br/>Here are a few things I'm working on:</p>  
+  <p>Experienced developer specialized in web and mobile development.  <br/>Passionate about transforming ideas into impactful solutions. <br/>Here are a few things I did :</p>  
 </div>
 
 <img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' alt="line" >
