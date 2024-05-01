@@ -29,24 +29,20 @@
 
 ### More About Me:
 
-- <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="30px">Looking to collaborate on innovative and challenging projects.
-- <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' width="30px"> Excited about what we can build with AI.
-- <img src='https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png' width="30px">Checkout my [resume](https://drive.google.com/file/d/1qa9y3b9yJ34b96GvPYS6FoSPzY01lGPr/view?usp=drivesdk)
+- <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="30px"> Looking to collaborate on innovative and challenging projects.
+- <img src='https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png' width="30px"> Excited about what we can build with AI.
+- <img src='https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30px"> Checkout my **[resume](https://drive.google.com/file/d/1uWEIOPXvljmVd2ppGNZ5q4QldBlBUuGC/view?usp=drive_link)**
 
 
 <br></br>
 
 #### Tech Skills I Excel In
 
-[![My Stack](https://skillicons.dev/icons?i=react,nextjs,ts,prisma,tailwind,git,apollo,mysql,mongodb,docker,figma,webflow)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=react,nextjs,nuxt,ts,prisma,jest,nodejs,tailwind,git,astro,postgresql,mongodb,docker,figma)](https://skillicons.dev)
 
 #### Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=rust,redis,tensorflow,ae)](https://skillicons.dev)<img src="https://media.giphy.com/media/v9lZy0d0A1rp3qg3ff/giphy.gif" alt="coding gif" width="40">
-
-<br></br>
-
-[//]: # (<a href="https://app.daily.dev/joanpaucar"><img src="https://github.com/Dv-Joan/Dv-Joan/blob/main/devcard.svg" width="400" alt="Joan Paucar's Dev Card"/></a>)
+[![Learning](https://skillicons.dev/icons?i=go,redis,fastapi,aws)](https://skillicons.dev)<img src="https://media.giphy.com/media/v9lZy0d0A1rp3qg3ff/giphy.gif" alt="coding gif" width="40">
 
 ### When I'm not coding:
 
