@@ -4,7 +4,7 @@
   <p>Experienced developer specialized in web and mobile development.  <br/>Passionate about transforming ideas into impactful solutions. <br/>Here are a few things I'm working on:</p>  
 </div>
 
----
+<img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' alt="line" >
 
 <br/>
 
@@ -29,9 +29,10 @@
 
 ### More About Me:
 
-- 🤝 &nbsp; Looking to collaborate on innovative and challenging projects.
-- 💣 &nbsp; Excited about what we can build with AI.
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qa9y3b9yJ34b96GvPYS6FoSPzY01lGPr/view?usp=drivesdk)
+- <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="30px">Looking to collaborate on innovative and challenging projects.
+- <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' width="30px"> Excited about what we can build with AI.
+- <img src='https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png' width="30px">Checkout my [resume](https://drive.google.com/file/d/1qa9y3b9yJ34b96GvPYS6FoSPzY01lGPr/view?usp=drivesdk)
+
 
 <br></br>
 
