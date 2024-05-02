@@ -17,7 +17,7 @@
 
 <br/>
 <div align="center">
-   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://github.com/kralion/expense-tracker/blob/main/assets/icon.png?raw=true" alt="ExpenseTracker Logo" /></a> <br/>
+   <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://cdn-icons-png.freepik.com/256/12228/12228849.png?ga=GA1.1.1695928261.1712593303&semt=ais_hybrid" alt="ExpenseTracker Logo" /></a> <br/>
   <b>Expense Tracker</b>  </br> Track daily financial expenses with ease. <br/>Made with Expo </br> <a href="https://expensetrackerweb.vercel.app">expensetracker.app</a>
 </div>
 
