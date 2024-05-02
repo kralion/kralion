@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-  <p>Experienced developer specialized in web and mobile development.  <br/>Passionate about transforming ideas into impactful solutions. <br/>Here are a few things I did :</p>  
+  <p><strong>Experienced developer specialized in web and mobile development.</strong> <br/>Here are a few things I did :</p>  
 </div>
 
 <img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' alt="line" >
