@@ -1,24 +1,21 @@
 <a href="https://brayanpaucar.netlify.app"><img src="./hero.png" align="center" style="width: 100%" alt="Brayan Paucar" /></a>
-
-<br/>
-
+<img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' alt="line" >
 <div align="center">
-  <p><strong>Experienced developer specialized in web and mobile development.</strong> <br/>Here are a few things I did :</p>  
+  <p><strong>SOME OF THE STUFF I DID :</strong></p>  
 </div>
 
-<img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' alt="line" >
 
 <br/>
 
 <div align="center">
    <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://cdn-icons-png.flaticon.com/128/10351/10351661.png" alt="Exaya Logo" /></a> <br/>
-  <b>Exaya</b>  </br> Integral Software for Organic Processes <br/>Management  Powered with AI </br> <a href="https://exaya.vercel.app">exaya.app</a>
+  <b>Exaya</b>  </br> ERP | Transportation Industry Company <a href="https://exaya.vercel.app">exaya.app</a>
 </div>
 
 <br/>
 <div align="center">
    <a href="https://shipixen.com" target="_blank"><img height="120px" src="https://cdn-icons-png.freepik.com/256/12228/12228849.png?ga=GA1.1.1695928261.1712593303&semt=ais_hybrid" alt="ExpenseTracker Logo" /></a> <br/>
-  <b>Monedo</b>  </br> Track daily financial expenses with ease. <br/>Made with Expo </br> <a href="https://monedo.vercel.app">monedo.app</a>
+  <b>Monedo</b>  </br> Track daily financial expenses easily with <a href="https://monedo.vercel.app">monedo.app</a>
 </div>
 
 <br/>
@@ -29,7 +26,7 @@
 
 <br/>
 
-### More About Me:
+
 
 - <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="30px"> Looking to collaborate on innovative and challenging projects.
 - <img src='https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png' width="30px"> Excited about what we can build with AI.
@@ -38,16 +35,6 @@
 
 <br></br>
 
-#### Tech Skills I Excel In
+#### My Stack
 
 [![My Stack](https://skillicons.dev/icons?i=react,nextjs,nuxt,ts,prisma,jest,nodejs,tailwind,git,astro,postgresql,mongodb,docker,figma)](https://skillicons.dev)
-
-#### Currently Learning
-
-[![Learning](https://skillicons.dev/icons?i=go,redis,fastapi,aws)](https://skillicons.dev)<img src="https://media.giphy.com/media/v9lZy0d0A1rp3qg3ff/giphy.gif" alt="coding gif" width="40">
-
-### When I'm not coding:
-
-- 👟 Hitting the tennis court
-- 🏊‍♂️ Swimming laps
-- 🏋️‍♂️ Working out at the gym
