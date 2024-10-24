@@ -37,4 +37,4 @@
 
 #### My Stack
 
-[![My Stack](https://skillicons.dev/icons?i=remix,nuxt,astro,ts,prisma,fastapi,tailwind,jest,go,postgresql,mongodb,docker,aws,figma)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=remix,nuxt,astro,ts,prisma,fastapi,tailwind,vitest,go,postgresql,mongodb,docker,figma)](https://skillicons.dev)
